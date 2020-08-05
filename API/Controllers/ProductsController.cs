@@ -1,3 +1,6 @@
+using System.Collections.Generic;
+using API.Model;
+using API.Services.ProductsService;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
@@ -6,16 +9,30 @@ namespace API.Controllers
     [Route("api/{controller}")]
     public class ProductsController : ControllerBase
     {
-        [HttpGet]
-        public string GetProducts()
+        private readonly IProductService _productService;
+        public ProductsController(IProductService productService)
         {
-            return "Lista de productos";
+            _productService = productService;
+        }
+
+        [HttpGet]
+        public ActionResult<List<Products>> GetProducts()
+        {
+            var products = _productService.GetAllProducts();
+            return Ok(products);
         }
 
         [HttpGet("{id}")]
-        public string GetProductById(int Id)
+        public ActionResult<Products> GetProductById(int Id)
         {
-            return "Un solo producto";
+            var products = _productService.GetProductById(Id);
+            
+            if(products == null)
+            {
+                return Httpres
+            }
+            
+            return Ok(products);
         }
 
     }
