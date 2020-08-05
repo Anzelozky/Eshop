@@ -1,5 +1,8 @@
 using System.Collections.Generic;
+using System.Net;
+using System.Threading.Tasks;
 using API.Model;
+using API.Responses;
 using API.Services.ProductsService;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,23 +19,27 @@ namespace API.Controllers
         }
 
         [HttpGet]
-        public ActionResult<List<Products>> GetProducts()
+        public async Task <IActionResult> GetProducts()
         {
-            var products = _productService.GetAllProducts();
-            return Ok(products);
+            var products = await _productService.GetAllProducts();
+            if (products == null)
+            {
+                return new HttpResponse<string>(HttpStatusCode.NotAcceptable,null,"No products found").Result;
+            }
+            return new HttpResponse<List<Products>>(HttpStatusCode.OK, products, "Success").Result;
         }
 
         [HttpGet("{id}")]
-        public ActionResult<Products> GetProductById(int Id)
+        public async Task<IActionResult> GetProductById(int Id)
         {
-            var products = _productService.GetProductById(Id);
+            var product = await _productService.GetProductById(Id);
             
-            if(products == null)
+            if(product == null)
             {
-                return Httpres
+                return new HttpResponse<string>(HttpStatusCode.NotAcceptable, null, "Product not found").Result;
             }
             
-            return Ok(products);
+            return new HttpResponse<Products>(HttpStatusCode.OK, product, string.Concat("Product found for Id:",Id)).Result;
         }
 
     }
