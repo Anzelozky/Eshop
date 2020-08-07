@@ -39,7 +39,7 @@ namespace API.Controllers
                 return new HttpResponse<string>(HttpStatusCode.NotAcceptable, null, "Product not found").Result;
             }
             
-            return new HttpResponse<Products>(HttpStatusCode.OK, product, string.Concat("Product found for Id:",Id)).Result;
+            return new HttpResponse<Products>(HttpStatusCode.OK, product, string.Concat("Product found for Id: ",Id)).Result;
         }
 
     }

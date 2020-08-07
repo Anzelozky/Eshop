@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/yBYSPYGXHIAlkJQDdh9AlCL89phK8RPcn0LviZ576JGrd+obNdP3pRTJW+2o3UexOMN/7QzWKh6TKiKFYYXrw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonat\\Documents\\dotnetcore\\Eshop\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

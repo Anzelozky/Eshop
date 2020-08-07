@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qBFAjKIpBLDMJpaff0n+e4Hdx9+f3opZdK3f0A9b1bT0G8f6/cU7jMzQHo+nGoNF83fLdUnfLjHMhG8PHNjPIw==",
+  "dgSpecHash": "41m08cIZu1trleieArM0h29kasG6UBHhqHIVxcnKQzkP6GdWD2e8JGSCf44fQLAS+OOafk1KfACnRXootYBfyA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jonat\\Documents\\dotnetcore\\eshop\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\jonat\\Documents\\dotnetcore\\Eshop\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\jonat\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

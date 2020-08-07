@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JgzPASIicIPxkwcGlR/Jb51axHDIB4pY1efW8JkMu9opYlfFmMheF8Xg/K8BSr8Xe15FGnSAi1alsuakZLrDVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jonat\\Documents\\dotnetcore\\Eshop\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jonat\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\jonat\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
