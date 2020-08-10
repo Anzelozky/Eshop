@@ -1,9 +1,9 @@
 using System.Collections.Generic;
 using System.Net;
 using System.Threading.Tasks;
-using API.Model;
 using API.Responses;
-using API.Services.ProductsService;
+using Core.Services.ProductsService;
+using Infrastructure.Model;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers

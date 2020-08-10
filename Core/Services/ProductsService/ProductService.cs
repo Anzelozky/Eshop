@@ -1,12 +1,11 @@
 using System.Threading.Tasks;
 using System.Linq;
-using API.DB;
-using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
-using API.Model;
 using Microsoft.EntityFrameworkCore;
+using Infrastructure.DB;
+using Infrastructure.Model;
 
-namespace API.Services.ProductsService
+namespace Core.Services.ProductsService
 {
     public class ProductService : IProductService
     {

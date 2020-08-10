@@ -1,0 +1,15 @@
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\obj\Debug\netcoreapp3.1\Core.csprojAssemblyReference.cache
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\obj\Debug\netcoreapp3.1\Core.csproj.CopyComplete
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\jonat\Documents\dotnetcore\Eshop\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache

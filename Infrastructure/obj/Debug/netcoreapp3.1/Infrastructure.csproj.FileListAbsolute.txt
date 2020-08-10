@@ -1,0 +1,9 @@
+C:\Users\jonat\Documents\dotnetcore\Eshop\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.deps.json
+C:\Users\jonat\Documents\dotnetcore\Eshop\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\jonat\Documents\dotnetcore\Eshop\Infrastructure\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\jonat\Documents\dotnetcore\Eshop\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csprojAssemblyReference.cache
+C:\Users\jonat\Documents\dotnetcore\Eshop\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jonat\Documents\dotnetcore\Eshop\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.AssemblyInfo.cs
+C:\Users\jonat\Documents\dotnetcore\Eshop\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Documents\dotnetcore\Eshop\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\jonat\Documents\dotnetcore\Eshop\Infrastructure\obj\Debug\netcoreapp3.1\Infrastructure.pdb

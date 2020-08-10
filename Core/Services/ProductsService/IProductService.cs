@@ -1,9 +1,8 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using API.Model;
-using Microsoft.AspNetCore.Mvc;
+using Infrastructure.Model;
 
-namespace API.Services.ProductsService
+namespace Core.Services.ProductsService
 {
     public interface IProductService
     {

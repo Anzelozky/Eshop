@@ -57,3 +57,7 @@ C:\Users\jonat\Documents\dotnetcore\eshop\API\obj\Debug\netcoreapp3.1\staticweba
 C:\Users\jonat\Documents\dotnetcore\eshop\API\obj\Debug\netcoreapp3.1\API.dll
 C:\Users\jonat\Documents\dotnetcore\eshop\API\obj\Debug\netcoreapp3.1\API.pdb
 C:\Users\jonat\Documents\dotnetcore\eshop\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Users\jonat\Documents\dotnetcore\Eshop\API\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\jonat\Documents\dotnetcore\Eshop\API\bin\Debug\netcoreapp3.1\Infrastructure.dll
+C:\Users\jonat\Documents\dotnetcore\Eshop\API\bin\Debug\netcoreapp3.1\Infrastructure.pdb
+C:\Users\jonat\Documents\dotnetcore\Eshop\API\bin\Debug\netcoreapp3.1\Core.pdb

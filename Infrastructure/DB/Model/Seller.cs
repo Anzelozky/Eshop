@@ -1,4 +1,4 @@
-namespace API.Model
+namespace Infrastructure.Model
 {
     public class Seller
     {
